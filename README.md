@@ -14,7 +14,7 @@ div  (/)
 ## How to run (e.g. linux)
 ```bash
 # Setup venv and activate it (optional)
-python -m venv .
+python3 -m venv .
 source Scripts/activate
 
 # Install deps
